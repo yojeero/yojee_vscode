@@ -1,0 +1,23 @@
+{
+    "name": "lotus",
+    "displayName": "Lotus Theme",
+    "description": "dark theme for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "Yoko",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "icon": "icon.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lotus",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lotus-color-theme.json"               
+            }
+        ]
+    }
+}
