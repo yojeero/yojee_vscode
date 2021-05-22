@@ -29,7 +29,7 @@ You can easily install the Lotus Theme by using the **Command Palette**:
 ## Activating the Lotus Theme
 Using the Command Palette, search for **UI: Select color theme** and select:
 
-- **Lotus Theme**.sublime-color-scheme
+- **Lotus Theme**
 
 <img src="../main/docs/spacer.png" width="1" height="1">
 
