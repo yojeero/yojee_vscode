@@ -1,11 +1,11 @@
 
-![preview](../main/docs/brand.png)
+![Logo](docs/brand.png "Logo")
 
 ## Lotus - a [Visual Studio Code](https://code.visualstudio.com) theme.
 
 A dark Visual Studio Code theme.
 
-![preview](../main/docs/view.png)
+![IDE](docs/view.png "IDE")
 
 [![MarketPlaceVersion](http://vsmarketplacebadge.apphb.com/version-short/Yoko-Luxelego.lotus.svg?style=for-the-badge&logo=appveyor)](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.lotus) 
 [![MarketPlaceDownloads](http://vsmarketplacebadge.apphb.com/downloads/Yoko-Luxelego.lotus.svg?style=for-the-badge&logo=appveyor)](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.lotus) 
