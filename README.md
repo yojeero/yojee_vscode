@@ -13,7 +13,7 @@ A dark Visual Studio Code theme.
 
 ## Install using [VSCode Marketplace](https://marketplace.visualstudio.com/search?term=themes&target=VSCode&category=All%20categories&sortBy=Relevance)
 
-[<img src="../main/docs/install.png" width="190" height="48">](https://packagecontrol.io/packages/Lotus%20Color%20Scheme)
+[<img src="../main/docs/install.png" width="190" height="48">](https://marketplace.visualstudio.com/search?term=themes&target=VSCode&category=All%20categories&sortBy=Relevance)
 
 You can easily install the Lotus Theme by using the **Command Palette**:
 
