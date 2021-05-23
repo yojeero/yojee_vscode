@@ -7,8 +7,6 @@ A dark Visual Studio Code theme.
 
 ![preview](../main/docs/view.png)
 
-<img src="../main/docs/spacer.png" width="1" height="1">
-
 ### Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
 
 <img src="../main/docs/spacer.png" width="1" height="1">
