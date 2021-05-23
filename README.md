@@ -1,9 +1,9 @@
 
 ![preview](../main/docs/brand.png)
 
-## Lotus - a [VSCode](https://code.visualstudio.com) theme.
+## Lotus - a [Visual Studio Code](https://code.visualstudio.com) theme.
 
-A dark VSCode theme.
+A dark Visual Studio Code theme.
 
 <img src="../main/docs/spacer.png" width="1" height="1">
 
@@ -15,13 +15,13 @@ A dark VSCode theme.
 
 <img src="../main/docs/spacer.png" width="1" height="1">
 
-## Install using [VSCode Market](https://marketplace.visualstudio.com/VSCode)
+## Install using [VSCode Marketplace](https://marketplace.visualstudio.com/search?term=themes&target=VSCode&category=All%20categories&sortBy=Relevance)
 
 [<img src="../main/docs/install.png" width="190" height="48">](https://packagecontrol.io/packages/Lotus%20Color%20Scheme)
 
 You can easily install the Lotus Theme by using the **Command Palette**:
 
-1. Enter [VSCode Market](https://marketplace.visualstudio.com/VSCode)
+1. Enter [VSCode Marketplace](https://marketplace.visualstudio.com/VSCode)
 2. Search for `Lotus Theme`
 
 <img src="../main/docs/spacer.png" width="1" height="1">
