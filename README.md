@@ -1,5 +1,5 @@
 
-![preview](../main/docs/brand.png)
+![preview](../main/docs/brand_2.png)
 
 ## Lotus - a [Visual Studio Code](https://code.visualstudio.com) theme.
 
