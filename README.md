@@ -7,8 +7,8 @@ A dark Visual Studio Code theme.
 
 ![IDE](docs/view.png "IDE")
 
-[![MarketPlaceVersion](http://vsmarketplacebadge.apphb.com/version-short/Yoko-Luxelego.lotus.svg?style=for-the-badge&logo=appveyor)](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.lotus) 
-[![MarketPlaceDownloads](http://vsmarketplacebadge.apphb.com/downloads/Yoko-Luxelego.lotus.svg?style=for-the-badge&logo=appveyor)](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.lotus) 
+[![MarketPlaceVersion](https://vsmarketplacebadge.apphb.com/version-short/Yoko-Luxelego.lotus.svg?style=for-the-badge&logo=appveyor)](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.lotus) 
+[![MarketPlaceDownloads](https://vsmarketplacebadge.apphb.com/downloads/Yoko-Luxelego.lotus.svg?style=for-the-badge&logo=appveyor)](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.lotus) 
 [![MarketPlaceLicense](https://img.shields.io/github/license/luxelego/lotus_color_scheme.svg?style=for-the-badge)](https://github.com/luxelego/lotus_vscode_theme/blob/main/LICENSE) 
 
 ### Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
