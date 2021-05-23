@@ -13,7 +13,7 @@ A dark Visual Studio Code theme.
 
 ## Install using [VSCode Marketplace](https://marketplace.visualstudio.com/search?term=themes&target=VSCode&category=All%20categories&sortBy=Relevance)
 
-[<img src="../main/docs/install.png" width="190" height="48">](https://marketplace.visualstudio.com/search?term=themes&target=VSCode&category=All%20categories&sortBy=Relevance)
+[<img src="../main/docs/install.png" width="190" height="48">](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.lotus)
 
 1. Enter [VSCode Marketplace](https://marketplace.visualstudio.com/VSCode)
 2. Search for `Lotus Theme`
