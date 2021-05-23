@@ -5,8 +5,6 @@
 
 A dark Visual Studio Code theme.
 
-<img src="../main/docs/spacer.png" width="1" height="1">
-
 ![preview](../main/docs/view.png)
 
 <img src="../main/docs/spacer.png" width="1" height="1">
