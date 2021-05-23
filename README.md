@@ -11,12 +11,12 @@ A dark Visual Studio Code theme.
 
 <img src="../main/docs/spacer.png" width="1" height="1">
 
-## Install using [VSCode Marketplace](https://marketplace.visualstudio.com/search?term=themes&target=VSCode&category=All%20categories&sortBy=Relevance)
+## Install using [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.lotus)
 
 [<img src="../main/docs/install.png" width="190" height="48">](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.lotus)
 
-1. Enter [VSCode Marketplace](https://marketplace.visualstudio.com/VSCode)
-2. Search for `Lotus Theme`
+1. Enter [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.lotus)
+2. Search for `Lotus Theme` by Yoko
 
 You can easily install the **Lotus Theme** by using the **Command Palette**:
 
