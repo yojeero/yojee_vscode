@@ -15,17 +15,23 @@ A dark Visual Studio Code theme.
 
 [<img src="../main/docs/install.png" width="190" height="48">](https://marketplace.visualstudio.com/search?term=themes&target=VSCode&category=All%20categories&sortBy=Relevance)
 
-You can easily install the Lotus Theme by using the **Command Palette**:
-
 1. Enter [VSCode Marketplace](https://marketplace.visualstudio.com/VSCode)
 2. Search for `Lotus Theme`
+
+You can easily install the **Lotus Theme** by using the **Command Palette**:
+
+1. Go to View -> `Command Palette`
+2. Enter `Install Extension`
+3. Write `Lotus Theme`
+4. Select it or press Enter to install
 
 <img src="../main/docs/spacer.png" width="1" height="1">
 
 ## Activating the Lotus Theme
-Using the Command Palette, search for **UI: Select color theme** and select:
 
-- **Lotus Theme**
+1. Click the `gear button` in the lower left corner.
+2. Click `Color Theme`.
+3. Select **Lotus Theme** in the list.
 
 <img src="../main/docs/spacer.png" width="1" height="1">
 
