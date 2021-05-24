@@ -1,17 +1,15 @@
 
 <img src="docs/brand.png" >
 
-## Lotus - a [Visual Studio Code](https://code.visualstudio.com) theme.
-
-A dark Visual Studio Code theme.
+## Lotus - a dark [Visual Studio Code](https://code.visualstudio.com) theme
 
 <img src="docs/view.png" >
 
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/Yoko-Luxelego.lotus?logo=Visual%20Studio%20Code&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.lotus)
-[![Version](https://img.shields.io/visual-studio-marketplace/v/Yoko-Luxelego.lotus?logo=Visual%20Studio%20Code&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.lotus)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/Yoko-Luxelego.lotus?logo=Visual%20Studio%20Code&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.lotus)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/Yoko-Luxelego.lotus?style=social)](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.lotus)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/Yoko-Luxelego.lotus?style=social)](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.lotus)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/Yoko-Luxelego.lotus?style=social)](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.lotus)
 
-### Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
+### Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 <img src="docs/spacer.png" width="1" height="1">
 
