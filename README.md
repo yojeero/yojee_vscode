@@ -13,7 +13,7 @@ A dark Visual Studio Code theme.
 
 ### Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
 
-<img src="../main/docs/spacer.png" width="1" height="1">
+<img src="docs/spacer.png" width="1" height="1">
 
 ## Install using [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.lotus)
 
@@ -27,7 +27,7 @@ You can easily install the **Lotus Theme** by using the **Command Palette**:
 3. Write `Lotus Theme`
 4. Select it or press Enter to install
 
-<img src="../main/docs/spacer.png" width="1" height="1">
+<img src="docs/spacer.png" width="1" height="1">
 
 ## Activating the Lotus Theme
 
@@ -35,7 +35,7 @@ You can easily install the **Lotus Theme** by using the **Command Palette**:
 2. Click `Color Theme`.
 3. Select **Lotus Theme** in the list.
 
-<img src="../main/docs/spacer.png" width="1" height="1">
+<img src="docs/spacer.png" width="1" height="1">
 
 ## Usage license
 
