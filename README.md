@@ -1,4 +1,4 @@
-<img src="img/head.jpg" >
+<img src="img/view.jpg" >
 
 ## Lotus - a dark [Visual Studio Code](https://code.visualstudio.com) theme
 
