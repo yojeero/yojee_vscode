@@ -1,4 +1,4 @@
-<img src="img/mac.jpg" >
+<img src="img/top.jpg" >
 
 ## Lotus - a dark [Visual Studio Code](https://code.visualstudio.com) theme
 
