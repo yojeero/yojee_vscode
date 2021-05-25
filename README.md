@@ -1,5 +1,5 @@
 
-<img src="docs/logo.jpg" >
+<img src="docs/logo-2.jpg" >
 
 ## Lotus - a dark [Visual Studio Code](https://code.visualstudio.com) theme
 
