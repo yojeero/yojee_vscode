@@ -1,8 +1,8 @@
-<img src="img/print.jpg" >
+<img src="img/print.png" >
 
 ## Lotus - a dark [Visual Studio Code](https://code.visualstudio.com) theme
 
-<img src="img/code-min.png" >
+<img src="img/code.png" >
 
 ### Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
