@@ -1,6 +1,6 @@
 <img src="img/top.jpg" >
 
-## Yojee - a dark [Visual Studio Code](https://code.visualstudio.com) theme
+## Yojee - a dark [VSCode](https://code.visualstudio.com) theme
 
 <img src="img/look.png" >
 
