@@ -1,7 +1,7 @@
 {
 	"name": "yojee",
 	"displayName": "Yojee Theme",
-	"description": "dark theme for VSCode aka Lotus color scheme in Sublime Text",
+	"description": "dark theme for VSCod",
 	"version": "1.1.0",
 	"publisher": "Yoko-Luxelego",
 	"engines": {
@@ -11,7 +11,7 @@
 	"homepage": "https://github.com/luxelego/yojee_vscode_theme/blob/main/README.md",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/luxelego/yojee_vscode_theme"
+		"url": "https://github.com/luxelego/yojee_vscode"
 	},
 	"categories": [
 		"Themes"
